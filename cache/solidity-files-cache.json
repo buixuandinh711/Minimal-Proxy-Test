@@ -111,8 +111,8 @@
       ]
     },
     "/home/dinh/Codes/blockchain/node/minimal-proxy-test/contracts/StorageFactory.sol": {
-      "lastModificationDate": 1649668379585,
-      "contentHash": "9bc68aa10ba20a60228e6033d8784023",
+      "lastModificationDate": 1649693681086,
+      "contentHash": "5a2a23a45168d000f87da83d991a6868",
       "sourceName": "contracts/StorageFactory.sol",
       "solcConfig": {
         "version": "0.8.3",
